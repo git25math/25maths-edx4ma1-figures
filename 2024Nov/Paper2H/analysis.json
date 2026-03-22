@@ -1,0 +1,301 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 2,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 3,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 4,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 3,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.248,
+          "y0": 0.091,
+          "x1": 0.58,
+          "y1": 0.279,
+          "crop_top": 0.071,
+          "crop_bottom": 0.297
+        }
+      ]
+    },
+    {
+      "page_num": 5,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 6,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 5,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.23,
+          "y0": 0.144,
+          "x1": 0.75,
+          "y1": 0.21,
+          "crop_top": 0.125,
+          "crop_bottom": 0.228
+        }
+      ]
+    },
+    {
+      "page_num": 7,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 6,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.15,
+          "y0": 0.1,
+          "x1": 0.609,
+          "y1": 0.29,
+          "crop_top": 0.071,
+          "crop_bottom": 0.313
+        }
+      ]
+    },
+    {
+      "page_num": 8,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 9,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 10,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 10,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.138,
+          "y0": 0.157,
+          "x1": 0.37,
+          "y1": 0.301,
+          "crop_top": 0.142,
+          "crop_bottom": 0.339
+        },
+        {
+          "question_num": 10,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 2,
+          "x0": 0.49,
+          "y0": 0.157,
+          "x1": 0.85,
+          "y1": 0.292,
+          "crop_top": 0.142,
+          "crop_bottom": 0.339
+        }
+      ]
+    },
+    {
+      "page_num": 11,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 12,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 11,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.2,
+          "y0": 0.09,
+          "x1": 0.609,
+          "y1": 0.291,
+          "crop_top": 0.071,
+          "crop_bottom": 0.309
+        }
+      ]
+    },
+    {
+      "page_num": 13,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 14,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 13,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.3,
+          "y0": 0.113,
+          "x1": 0.69,
+          "y1": 0.36,
+          "crop_top": 0.094,
+          "crop_bottom": 0.38
+        }
+      ]
+    },
+    {
+      "page_num": 15,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 16,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 17,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 16,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.222,
+          "y0": 0.102,
+          "x1": 0.563,
+          "y1": 0.329,
+          "crop_top": 0.071,
+          "crop_bottom": 0.347
+        }
+      ]
+    },
+    {
+      "page_num": 18,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 19,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 20,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 21,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 21,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.25,
+          "y0": 0.097,
+          "x1": 0.73,
+          "y1": 0.38,
+          "crop_top": 0.07,
+          "crop_bottom": 0.412
+        }
+      ]
+    },
+    {
+      "page_num": 22,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 23,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 24,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 25,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 26,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 25,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.243,
+          "y0": 0.111,
+          "x1": 0.63,
+          "y1": 0.36,
+          "crop_top": 0.071,
+          "crop_bottom": 0.381
+        }
+      ]
+    },
+    {
+      "page_num": 27,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 28,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    }
+  ]
+}

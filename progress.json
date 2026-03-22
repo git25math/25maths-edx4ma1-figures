@@ -1,0 +1,496 @@
+{
+  "version": "1.0",
+  "project": "Edexcel 4MA1 Figure Extraction",
+  "created": "2026-03-23",
+  "last_updated": "2026-03-23",
+  "tool_version": "crop.py v1.0",
+  "stats": {
+    "total_sessions": 19,
+    "total_papers": 76,
+    "completed": 1,
+    "in_progress": 75,
+    "failed": 0,
+    "pending": 0
+  },
+  "status_flow": "pending → cropped → verifying → passed | needs_fix → re_cropped → verifying → passed",
+  "sessions": {
+    "2017SP": {
+      "status": "complete",
+      "papers": {
+        "Paper1F": {
+          "status": "passed",
+          "figures": 13,
+          "issues": [],
+          "verified_at": "2026-03-23"
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 9,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 16,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        }
+      }
+    },
+    "2018June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 14,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        }
+      }
+    },
+    "2019Jan": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 13,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 16,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 10,
+          "issues": []
+        }
+      }
+    },
+    "2019June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 16,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 10,
+          "issues": []
+        }
+      }
+    },
+    "2020Jan": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 20,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 14,
+          "issues": []
+        }
+      }
+    },
+    "2020June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        }
+      }
+    },
+    "2020Nov": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 9,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 14,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        }
+      }
+    },
+    "2021Jan": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 16,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 9,
+          "issues": []
+        }
+      }
+    },
+    "2021June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 16,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 18,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 7,
+          "issues": []
+        }
+      }
+    },
+    "2021Nov": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 14,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 14,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 13,
+          "issues": []
+        }
+      }
+    },
+    "2022Jan": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 13,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 23,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        }
+      }
+    },
+    "2022June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 17,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 13,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 7,
+          "issues": []
+        }
+      }
+    },
+    "2023Jan": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 23,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 13,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 17,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 20,
+          "issues": []
+        }
+      }
+    },
+    "2023June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 17,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 18,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        }
+      }
+    },
+    "2023Nov": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 18,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 23,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 10,
+          "issues": []
+        }
+      }
+    },
+    "2024June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 22,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 10,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 13,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 7,
+          "issues": []
+        }
+      }
+    },
+    "2024Nov": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 17,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 16,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 14,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 10,
+          "issues": []
+        }
+      }
+    },
+    "2025June": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 15,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 11,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 19,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 13,
+          "issues": []
+        }
+      }
+    },
+    "2025Nov": {
+      "status": "in_progress",
+      "papers": {
+        "Paper1F": {
+          "status": "cropped",
+          "figures": 17,
+          "issues": []
+        },
+        "Paper1H": {
+          "status": "cropped",
+          "figures": 9,
+          "issues": []
+        },
+        "Paper2F": {
+          "status": "cropped",
+          "figures": 20,
+          "issues": []
+        },
+        "Paper2H": {
+          "status": "cropped",
+          "figures": 12,
+          "issues": []
+        }
+      }
+    }
+  },
+  "bugs": [],
+  "resume_instructions": "Read this file to know current state. Process the first session with status != 'complete'."
+}

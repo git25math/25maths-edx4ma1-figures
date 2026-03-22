@@ -1,0 +1,112 @@
+[
+  {
+    "filename": "Q02/Q02_Stem_Fig1.png",
+    "page": 4,
+    "question_num": 2,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 545
+  },
+  {
+    "filename": "Q03/Q03_Stem_Fig1.png",
+    "page": 5,
+    "question_num": 3,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 529
+  },
+  {
+    "filename": "Q08/Q08_Stem_Fig1.png",
+    "page": 9,
+    "question_num": 8,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 372
+  },
+  {
+    "filename": "Q10/Q10_Stem_Fig1.png",
+    "page": 11,
+    "question_num": 10,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 351
+  },
+  {
+    "filename": "Q11/Q11_Stem_Fig1.png",
+    "page": 12,
+    "question_num": 11,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 1920
+  },
+  {
+    "filename": "Q14/Q14_Stem_Fig1.png",
+    "page": 16,
+    "question_num": 14,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 746
+  },
+  {
+    "filename": "Q16/Q16_Stem_Fig1.png",
+    "page": 18,
+    "question_num": 16,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 511
+  },
+  {
+    "filename": "Q17/Q17_Stem_Fig1.png",
+    "page": 20,
+    "question_num": 17,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 455
+  },
+  {
+    "filename": "Q20/Q20_Stem_Fig1.png",
+    "page": 23,
+    "question_num": 20,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 461
+  },
+  {
+    "filename": "Q21/Q21_Stem_Fig1.png",
+    "page": 24,
+    "question_num": 21,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 374
+  },
+  {
+    "filename": "Q23/Q23_Stem_Fig1.png",
+    "page": 26,
+    "question_num": 23,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 239
+  }
+]

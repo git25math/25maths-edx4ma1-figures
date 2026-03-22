@@ -1,0 +1,290 @@
+{
+  "pages": [
+    {
+      "page_num": 1,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 2,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 3,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 4,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 2,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.101,
+          "y0": 0.125,
+          "x1": 0.505,
+          "y1": 0.281,
+          "crop_top": 0.115,
+          "crop_bottom": 0.291
+        }
+      ]
+    },
+    {
+      "page_num": 5,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 3,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.261,
+          "y0": 0.088,
+          "x1": 0.706,
+          "y1": 0.322,
+          "crop_top": 0.077,
+          "crop_bottom": 0.33
+        }
+      ]
+    },
+    {
+      "page_num": 6,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 7,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 8,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 6,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.333,
+          "y0": 0.104,
+          "x1": 0.665,
+          "y1": 0.54,
+          "crop_top": 0.077,
+          "crop_bottom": 0.55
+        }
+      ]
+    },
+    {
+      "page_num": 9,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 7,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.301,
+          "y0": 0.101,
+          "x1": 0.655,
+          "y1": 0.279,
+          "crop_top": 0.077,
+          "crop_bottom": 0.288
+        }
+      ]
+    },
+    {
+      "page_num": 10,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 8,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.325,
+          "y0": 0.101,
+          "x1": 0.654,
+          "y1": 0.354,
+          "crop_top": 0.077,
+          "crop_bottom": 0.364
+        }
+      ]
+    },
+    {
+      "page_num": 11,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 9,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.334,
+          "y0": 0.088,
+          "x1": 0.602,
+          "y1": 0.305,
+          "crop_top": 0.077,
+          "crop_bottom": 0.315
+        }
+      ]
+    },
+    {
+      "page_num": 12,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 10,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.302,
+          "y0": 0.103,
+          "x1": 0.697,
+          "y1": 0.289,
+          "crop_top": 0.077,
+          "crop_bottom": 0.3
+        },
+        {
+          "question_num": 10,
+          "sub_question": "a",
+          "is_stem": false,
+          "fig_idx": 2,
+          "x0": 0.302,
+          "y0": 0.342,
+          "x1": 0.697,
+          "y1": 0.569,
+          "crop_top": 0.333,
+          "crop_bottom": 0.569
+        }
+      ]
+    },
+    {
+      "page_num": 13,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 10,
+          "sub_question": "b",
+          "is_stem": false,
+          "fig_idx": 3,
+          "x0": 0.248,
+          "y0": 0.104,
+          "x1": 0.866,
+          "y1": 0.548,
+          "crop_top": 0.077,
+          "crop_bottom": 0.58
+        }
+      ]
+    },
+    {
+      "page_num": 14,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 15,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 16,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 17,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 18,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 19,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 17,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.315,
+          "y0": 0.107,
+          "x1": 0.706,
+          "y1": 0.28,
+          "crop_top": 0.077,
+          "crop_bottom": 0.29
+        }
+      ]
+    },
+    {
+      "page_num": 20,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": [
+        {
+          "question_num": 18,
+          "sub_question": null,
+          "is_stem": true,
+          "fig_idx": 1,
+          "x0": 0.252,
+          "y0": 0.088,
+          "x1": 0.722,
+          "y1": 0.329,
+          "crop_top": 0.077,
+          "crop_bottom": 0.34
+        }
+      ]
+    },
+    {
+      "page_num": 21,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 22,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 23,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    },
+    {
+      "page_num": 24,
+      "content_x0": 0.1,
+      "content_x1": 0.88,
+      "images": []
+    }
+  ]
+}

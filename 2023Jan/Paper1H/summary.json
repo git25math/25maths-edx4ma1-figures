@@ -1,0 +1,132 @@
+[
+  {
+    "filename": "Q01/Q01_Stem_Fig1.png",
+    "page": 3,
+    "question_num": 1,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 447
+  },
+  {
+    "filename": "Q03/Q03_Stem_Fig1.png",
+    "page": 5,
+    "question_num": 3,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 1677
+  },
+  {
+    "filename": "Q04/Q04_Stem_Fig1.png",
+    "page": 6,
+    "question_num": 4,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1434,
+    "height": 254
+  },
+  {
+    "filename": "Q07/Q07_Stem_Fig1.png",
+    "page": 9,
+    "question_num": 7,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 168
+  },
+  {
+    "filename": "Q08/Q08_Stem_Fig1.png",
+    "page": 10,
+    "question_num": 8,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1434,
+    "height": 312
+  },
+  {
+    "filename": "Q10/Q10_Subb_Fig1.png",
+    "page": 12,
+    "question_num": 10,
+    "sub_question": "b",
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 154
+  },
+  {
+    "filename": "Q11/Q11_Stem_Fig1.png",
+    "page": 13,
+    "question_num": 11,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 871
+  },
+  {
+    "filename": "Q14/Q14_Suba_Fig1.png",
+    "page": 15,
+    "question_num": 14,
+    "sub_question": "a",
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1307,
+    "height": 182
+  },
+  {
+    "filename": "Q15/Q15_Stem_Fig1.png",
+    "page": 16,
+    "question_num": 15,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1573,
+    "height": 170
+  },
+  {
+    "filename": "Q15/Q15_Suba_Fig2.png",
+    "page": 16,
+    "question_num": 15,
+    "sub_question": "a",
+    "is_stem": true,
+    "fig_idx": 2,
+    "width": 1423,
+    "height": 505
+  },
+  {
+    "filename": "Q16/Q16_Stem_Fig1.png",
+    "page": 18,
+    "question_num": 16,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1434,
+    "height": 284
+  },
+  {
+    "filename": "Q21/Q21_Stem_Fig1.png",
+    "page": 24,
+    "question_num": 21,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1434,
+    "height": 234
+  },
+  {
+    "filename": "Q24/Q24_Stem_Fig1.png",
+    "page": 30,
+    "question_num": 24,
+    "sub_question": null,
+    "is_stem": true,
+    "fig_idx": 1,
+    "width": 1434,
+    "height": 291
+  }
+]

@@ -17,7 +17,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1307,
-    "height": 311
+    "height": 236
   },
   {
     "filename": "Q03/Q03_Stem_Fig2.png",
@@ -27,7 +27,7 @@
     "is_stem": true,
     "fig_idx": 2,
     "width": 1307,
-    "height": 311
+    "height": 236
   },
   {
     "filename": "Q03/Q03_Stem_Fig3.png",
@@ -37,7 +37,7 @@
     "is_stem": true,
     "fig_idx": 3,
     "width": 1307,
-    "height": 311
+    "height": 236
   },
   {
     "filename": "Q03/Q03_Subb_Fig1.png",
@@ -57,7 +57,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1368,
-    "height": 300
+    "height": 239
   },
   {
     "filename": "Q05/Q05_Suba_Fig1.png",
@@ -68,16 +68,6 @@
     "fig_idx": 1,
     "width": 1307,
     "height": 151
-  },
-  {
-    "filename": "Q05/Q05_Suba_Fig2.png",
-    "page": 7,
-    "question_num": 5,
-    "sub_question": "a",
-    "is_stem": false,
-    "fig_idx": 2,
-    "width": 1307,
-    "height": 210
   },
   {
     "filename": "Q05/Q05_Subb_Fig1.png",
@@ -97,7 +87,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1431,
-    "height": 927
+    "height": 921
   },
   {
     "filename": "Q09/Q09_Stem_Fig1.png",
@@ -107,7 +97,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1307,
-    "height": 462
+    "height": 387
   },
   {
     "filename": "Q09/Q09_Stem_Fig2.png",
@@ -117,7 +107,7 @@
     "is_stem": true,
     "fig_idx": 2,
     "width": 1307,
-    "height": 462
+    "height": 387
   },
   {
     "filename": "Q09/Q09_Suba_Fig1.png",
@@ -167,7 +157,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1438,
-    "height": 379
+    "height": 563
   },
   {
     "filename": "Q16/Q16_Stem_Fig1.png",
@@ -177,7 +167,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1307,
-    "height": 599
+    "height": 557
   },
   {
     "filename": "Q18/Q18_Stem_Fig1.png",
@@ -217,7 +207,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1356,
-    "height": 312
+    "height": 428
   },
   {
     "filename": "Q25/Q25_Subb_Fig1.png",

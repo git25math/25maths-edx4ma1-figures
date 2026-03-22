@@ -17,7 +17,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1420,
-    "height": 334
+    "height": 457
   },
   {
     "filename": "Q08/Q08_Stem_Fig1.png",
@@ -27,7 +27,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1420,
-    "height": 235
+    "height": 317
   },
   {
     "filename": "Q12/Q12_Stem_Fig1.png",
@@ -37,7 +37,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1420,
-    "height": 282
+    "height": 412
   },
   {
     "filename": "Q13/Q13_Stem_Fig1.png",
@@ -87,7 +87,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1420,
-    "height": 502
+    "height": 669
   },
   {
     "filename": "Q20/Q20_Stem_Fig1.png",
@@ -107,6 +107,6 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1420,
-    "height": 531
+    "height": 606
   }
 ]

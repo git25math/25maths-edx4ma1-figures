@@ -7,7 +7,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1498,
-    "height": 512
+    "height": 636
   },
   {
     "filename": "Q07/Q07_Stem_Fig1.png",
@@ -47,7 +47,7 @@
     "is_stem": false,
     "fig_idx": 1,
     "width": 1307,
-    "height": 1010
+    "height": 612
   },
   {
     "filename": "Q15/Q15_Suba_Fig1.png",
@@ -67,6 +67,6 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1498,
-    "height": 525
+    "height": 611
   }
 ]

@@ -37,7 +37,7 @@
     "is_stem": true,
     "fig_idx": 2,
     "width": 1307,
-    "height": 251
+    "height": 375
   },
   {
     "filename": "Q04/Q04_Stem_Fig1.png",
@@ -57,7 +57,7 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1307,
-    "height": 360
+    "height": 477
   },
   {
     "filename": "Q08/Q08_Stem_Fig1.png",
@@ -117,6 +117,6 @@
     "is_stem": true,
     "fig_idx": 1,
     "width": 1307,
-    "height": 839
+    "height": 955
   }
 ]

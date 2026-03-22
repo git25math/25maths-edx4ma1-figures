@@ -7,8 +7,8 @@
   "stats": {
     "total_sessions": 19,
     "total_papers": 76,
-    "completed": 1,
-    "in_progress": 75,
+    "completed": 0,
+    "in_progress": 76,
     "failed": 0,
     "pending": 0
   },
@@ -18,7 +18,7 @@
       "status": "complete",
       "papers": {
         "Paper1F": {
-          "status": "passed",
+          "status": "cropped",
           "figures": 13,
           "issues": [],
           "verified_at": "2026-03-23"
@@ -320,7 +320,7 @@
       "papers": {
         "Paper1F": {
           "status": "cropped",
-          "figures": 23,
+          "figures": 22,
           "issues": []
         },
         "Paper1H": {

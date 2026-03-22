@@ -347,6 +347,9 @@ def is_question_text(text: str, x0: float = 0.0, content_x0: float = 0.10) -> bo
             "Mr ", "Mrs ",
             "Shade ", "You ",
             "A cone ", "A pyramid ", "A hemisphere ",
+            "A container ", "A frustum ", "A sequence ", "A shape ",
+            "A cylinder ", "A sector ", "A prism ", "A sphere ",
+            "A cuboid ", "A wire ", "A metal ", "A wooden ",
             "Points ", "Point ",
             "The first ", "The second ",
             "The area ", "The volume ", "The perimeter ",
@@ -371,7 +374,7 @@ def is_question_text(text: str, x0: float = 0.0, content_x0: float = 0.10) -> bo
             "Is it", "Are there",
         ]
         # Continuation patterns
-        if re.search(r"\b(is equal to|is the same as|are shown|are given|has been drawn|lies on the|lie on a|is a natural|is a positive|is an integer|is a solid|is a straight|is a pentagon|is a hexagon|is a quadrilateral|is a triangle|is a parallelogram|is a trapezium|is a rhombus|is a kite|is a sector|is a prism|is a cylinder|has area|has perimeter|has radius|has diameter|are points on|is a point on|is the midpoint|is the centre|shows the|shows information|shows that|represents|on the grid|on the diagram|on your diagram|draw the graph|draw a line|draw the line)\b", text):
+        if re.search(r"\b(is equal to|is the same as|are shown|are given|has been drawn|lies on the|lie on a|is a natural|is a positive|is an integer|is a solid|is a straight|is a pentagon|is a hexagon|is a quadrilateral|is a triangle|is a parallelogram|is a trapezium|is a rhombus|is a kite|is a sector|is a prism|is a cylinder|has area|has perimeter|has radius|has diameter|are points on|is a point on|is the midpoint|is the centre|shows the|shows information|shows that|represents|on the grid|on the diagram|on your diagram|draw the graph|draw a line|draw the line|is placed on|is made by|is made from|are right-angled|is an isosceles|is an equilateral|is a five-sided|dollars to invest|to throw|to invest|packets of|information about|noodles from|due north|due south|due east|due west)\b", text):
             return True
         # Set definitions
         if re.match(r"^.{1,3}\s*=\s*\{", text):
@@ -389,9 +392,13 @@ def is_question_text(text: str, x0: float = 0.0, content_x0: float = 0.10) -> bo
             "NOT TO SCALE",
             "Diagram NOT accurately drawn",
             "Diagram NOT",
+            "Diagram accurately",  # partial OCR fragment
+            "Diagra",              # truncated by PyMuPDF
+            "Diag accura",         # truncated
             "Key:", "Key :",
             "O is the origin",
             "is the point",
+            "accurately drawn",
         ]
         for fc in fig_captions:
             if fc in text:
@@ -402,7 +409,16 @@ def is_question_text(text: str, x0: float = 0.0, content_x0: float = 0.10) -> bo
                 return True
 
         # Long lowercase text is likely question continuation
-        if len(text) > 15 and text[0].islower():
+        if len(text) > 8 and text[0].islower():
+            return True
+
+        # Short fragment ending with period (question continuation)
+        # e.g. "a blue brick.", "five countries.", "AC = 5 cm."
+        if text.endswith(".") and len(text) >= 5 and len(text) <= 40:
+            return True
+
+        # "X and Y" patterns for named variables/people in question text
+        if re.match(r"^[A-Z][a-z]+ (has|had|is|are|was|were|takes|took|finds|found|buys|bought|makes|made|gets|got|says|said|wants|draws|picks|throws|plays|travels|drives|walks|runs|flies|swims|cycles|saves|spends|earns|weighs|measures|records|counts|gives|sells|uses|works|invests|puts) ", text):
             return True
 
     # Short question patterns

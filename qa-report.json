@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "project": "Edexcel 4MA1 Figure QA",
+  "created": "2026-03-23T05:56:12.722999",
+  "last_updated": "2026-03-23T05:56:37.589588",
+  "stats": {
+    "total": 13,
+    "passed": 4,
+    "failed": 9,
+    "pending": 0
+  },
+  "figures": {
+    "2017SP/Paper1F/Q01/Q01_Subb_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "text_leak",
+        "truncated"
+      ],
+      "detail": "Contains sub-question label '(b)' and question text 'Shade 1/6 of the shape below.'. The image is also truncated at the bottom, cutting off the full shape.",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935857"
+    },
+    "2017SP/Paper1F/Q02/Q02_Stem_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "truncated"
+      ],
+      "detail": "The table is truncated at the bottom, with the 'City' row being incomplete and subsequent rows missing.",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935874"
+    },
+    "2017SP/Paper1F/Q05/Q05_Stem_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "text_leak"
+      ],
+      "detail": "Contains question text 'Hassam has a fair 6-sided spinner.'.",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935878"
+    },
+    "2017SP/Paper1F/Q05/Q05_Stem_Fig2.png": {
+      "pass": false,
+      "issues": [
+        "text_leak",
+        "truncated"
+      ],
+      "detail": "Contains question text 'The spinner can land on red, on green or on blue.'. The image is also truncated at the top and bottom, cutting off the probability scale.",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935881"
+    },
+    "2017SP/Paper1F/Q06/Q06_Stem_Fig1.png": {
+      "pass": true,
+      "issues": [],
+      "detail": "",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935883"
+    },
+    "2017SP/Paper1F/Q07/Q07_Stem_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "truncated"
+      ],
+      "detail": "The table is truncated at the bottom, with the row for '4' being incomplete and subsequent rows missing.",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935886"
+    },
+    "2017SP/Paper1F/Q08/Q08_Stem_Fig1.png": {
+      "pass": true,
+      "issues": [],
+      "detail": "",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935888"
+    },
+    "2017SP/Paper1F/Q10/Q10_Stem_Fig1.png": {
+      "pass": true,
+      "issues": [],
+      "detail": "",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935890"
+    },
+    "2017SP/Paper1F/Q13/Q13_Stem_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "text_leak",
+        "truncated"
+      ],
+      "detail": "Contains truncated text 'Diagram NO' which is part of 'Diagram NOT accurately drawn', making it a text leak. The diagram is also truncated on the right side.",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935892"
+    },
+    "2017SP/Paper1F/Q14/Q14_Stem_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "text_leak",
+        "truncated"
+      ],
+      "detail": "Contains truncated question text 'below.' and 'Diagram NOT accurately draw'. The grid and the shaded rectangle are also truncated on all sides.",
+      "confidence": 0.95,
+      "checked_at": "2026-03-23T05:56:27.935894"
+    },
+    "2017SP/Paper1F/Q19/Q19_Stem_Fig1.png": {
+      "pass": true,
+      "issues": [],
+      "detail": "",
+      "confidence": 0.98,
+      "checked_at": "2026-03-23T05:56:37.589127"
+    },
+    "2017SP/Paper1F/Q22/Q22_Stem_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "text_leak"
+      ],
+      "detail": "The text 'in April 2016.' is present at the top of the image, which appears to be part of the question stem.",
+      "confidence": 0.98,
+      "checked_at": "2026-03-23T05:56:37.589143"
+    },
+    "2017SP/Paper1F/Q23/Q23_Stem_Fig1.png": {
+      "pass": false,
+      "issues": [
+        "truncated"
+      ],
+      "detail": "The bottom part of the triangle is visibly cut off.",
+      "confidence": 0.98,
+      "checked_at": "2026-03-23T05:56:37.589146"
+    }
+  }
+}
